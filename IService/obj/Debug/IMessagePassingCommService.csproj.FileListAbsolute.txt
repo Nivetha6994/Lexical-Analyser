@@ -1,0 +1,20 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\bin\Debug\IService.dll.config
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\bin\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\bin\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\obj\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\MessagePassingComm\IService\obj\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\Project4\IService\bin\Debug\IService.dll.config
+E:\MS in USA\SEM 1\SMA\Project4\IService\bin\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\Project4\IService\bin\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\Project4\IService\obj\Debug\IMessagePassingCommService.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\Project4\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\Project4\IService\obj\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\Project4\IService\obj\Debug\IService.pdb

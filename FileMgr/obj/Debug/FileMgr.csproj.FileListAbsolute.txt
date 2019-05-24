@@ -1,0 +1,44 @@
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe.config
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\bin\Debug\Environment.dll
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\bin\Debug\Environment.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.exe
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\bin\Debug\FileMgr.exe.config
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\bin\Debug\FileMgr.exe
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\bin\Debug\Environment.dll
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\bin\Debug\Environment.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\obj\Debug\FileMgr.exe
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\FileMgr\obj\Debug\FileMgr.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\bin\Debug\FileMgr.exe.config
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\bin\Debug\FileMgr.exe
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\bin\Debug\FileMgr.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\bin\Debug\Environment.dll
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\bin\Debug\Environment.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\obj\Debug\FileMgr.exe
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\FileMgr\obj\Debug\FileMgr.pdb

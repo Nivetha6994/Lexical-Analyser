@@ -1,0 +1,61 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.exe
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\Environment.dll
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\TestUtilities.exe
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\Environment.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\IService.dll.config
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+E:\MS in USA\SEM 1\SMA\NavigatorClientServer\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\Environment.dll
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\TestUtilities.exe
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\Environment.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\IService.dll.config
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+E:\MS in USA\SEM 1\SMA\Projects\NavigatorClientServer-Copy\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\Environment.dll
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\IService.dll
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\TestUtilities.exe
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\Environment.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\IService.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\IService.dll.config
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+E:\MS in USA\SEM 1\SMA\Projects\NivethaRamachandran_SUID724348897_SMAProj4\MessagePassingCommService\obj\Debug\PluggableCommService.pdb
